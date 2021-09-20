@@ -1,5 +1,3 @@
-<br />
-
 ### Hi there, I'm Avichal - nice to meet you 👋
 
 ## I'm a Fullstack developer
