@@ -2,8 +2,8 @@
 
 ## I'm a Fullstack developer
 
--  💻 I’m currently learning Next js
--  🥅 My monthly goal is to participate in hacktober fest
+-  💻 I’m currently learning js in depth and also participating in hackathons
+-  🥅 My goal for this year is to be a superb and experienced javascript developer
 -  ⚽ I love to play football
 
 <br />
