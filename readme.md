@@ -2,10 +2,9 @@
 
 ## I'm a Fullstack developer
 
--  💻 I’m currently learning js in depth and also participating in hackathons
--  🥅 My goal for this year is to be a superb and experienced javascript developer
--  ⚽ I love to play football
-
+-  🌱 Dabbling with advance js and making exciting projects
+-  🗻 Driven with the goal to sharpen my skills as a full stack developer
+-  🪲 Killing bugs along the way
 <br />
 
 ### Languages and Tools:
